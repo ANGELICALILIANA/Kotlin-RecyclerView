@@ -1,0 +1,189 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="no_dimen">0dp</dimen>
+    <dimen name="height_input_text_login">25dp</dimen>
+    <dimen name="login_text_heigth">40dp</dimen>
+    <dimen name="login_text_size">18sp</dimen>
+    <dimen name="padding_letft_right_container_login">30dp</dimen>
+    <dimen name="login_alert_icon_size">15dp</dimen>
+    <dimen name="width_login_container">300dp</dimen>
+    <dimen name="padding_top_container_login">10dp</dimen>
+    <dimen name="separator_input_margin_top">10dp</dimen>
+
+
+    <!--Márgenes Layout-->
+    <dimen name="general_margin">10dp</dimen>                 //Revisar esta para unifizar con la de abajo
+    <dimen name="general_margin_start">8dp</dimen>           //Es margen general
+    <dimen name="margin_top">16dp</dimen> //Revisar nombre
+
+
+    <!--Cositas generales-->                                 //Cositas generales
+    <dimen name="radius_item">10dp</dimen> //Revisar
+    <dimen name="text_size">14sp</dimen> //Revisar
+    <dimen name="height_item_check_box">30dp</dimen>
+
+
+    <!--Botones-->
+    <dimen name="general_width_button">120dp</dimen>        //Revisar botones para aplicar el estilo
+    <dimen name="general_height_button">40dp</dimen>
+    <dimen name="separation_buttons">5dp</dimen>
+    <dimen name="size_text_button">14sp</dimen>            //Revisar para poner el estilo general
+    <dimen name="margin_button">16dp</dimen>            //Revisar para poner el estilo general
+    <item name="guideline_separation_buttons" format="float" type="integer">0.5</item>    //Revsar para poner el estilo general
+
+
+    <!--Inicio-->
+    <dimen name="margin_start_logo">8dp</dimen>
+    <dimen name="margin_end_logo">24dp</dimen>
+    <dimen name="center_vertical_logo_main">18dp</dimen>
+    <dimen name="elevation_menu_profile">10dp</dimen>
+    <item name="guideline_separation_menu" format="float" type="integer">0.5</item>
+
+
+    <!--Confirmación de Incidente-->
+    <dimen name="margin_top_title_confirm_location">0.5dp</dimen>
+    <dimen name="size_icon_confirm_location">35dp</dimen>
+    <dimen name="margin_start_icon_confirm_location">8dp</dimen>
+    <dimen name="margin_start_text_title_confirm_location">4dp</dimen>
+    <dimen name="size_icon_circle_blue_confirm_location">40dp</dimen>        //Generalizar
+    <dimen name="size_icon_victim_confirm_location">30dp</dimen>
+    <dimen name="margin_icon_victim_confirm_location">2dp</dimen>
+    <dimen name="width_text_victim_confirm_location">140dp</dimen>
+    <dimen name="margin_top_hour_confirm_location">2dp</dimen>
+    <dimen name="height_button_confirm_location">50dp</dimen>       //Revisar
+    <dimen name="margin_button_confirm_location">16dp</dimen>       //Revisar
+    <dimen name="margin_top_text_confirm_location">4dp</dimen>
+    <dimen name="size_text_confirm_location">12sp</dimen>     //Generalizar
+    <dimen name="width_no_se_que_es">322dp</dimen>                 //Revisar que es
+    <dimen name="height_no_se_que_es">1dp</dimen>                  //Revisar que es
+    <dimen name="margin_top_no_se_que_es">2dp</dimen>              //Revisar que es
+    <item name="guideline_separation_items_title_confirm_location" format="float" type="integer">0.3</item>
+
+
+    <!--Confirmación Tipo de Incidente-->
+    <dimen name="height_separator_confirm_location_information">1dp</dimen>
+    <dimen name="margin_top_separator_confirm_location_information">8dp</dimen>     //Revisar
+    <dimen name="margin_end_separator_confirm_location_information">32dp</dimen>    //Revisar
+    <dimen name="separation_items_confirm_location_information">4dp</dimen>         //Revisar
+    <dimen name="height_item_confirm_location_information">30dp</dimen>
+    <dimen name="margin_alcohol_test_confirm_location_information">4dp</dimen>
+    <dimen name="text_alcohol_test_confirm_location_information">4dp</dimen>
+    <dimen name="size_text_alcohol_test_confirm_location_information">10sp</dimen>
+    <dimen name="content_item_uncheck_confirm_location_information">200dp</dimen>
+    <dimen name="height_map_confirm_location_information">230dp</dimen>
+    <dimen name="min_height_text_confirm_location_information">35dp</dimen>         //Revisar
+    <dimen name="margin_end_map_form_confirm_location_information">4dp</dimen>      //Revisar
+    <dimen name="margin_button_confirm_location_information">16dp</dimen>           //Generalizar
+    <dimen name="width_button_confirm_location_information">250dp</dimen>           //Generalizar
+    <item name="guideline_separation_confirm_location_information" format="float" type="integer">0.5</item>
+
+
+    <!--Evidencia-->
+    <dimen name="width_image_map_evidence">170dp</dimen>
+    <dimen name="height_image_map_evidence">120dp</dimen>
+    <dimen name="size_delete_button">40dp</dimen>                        //Generalizar boton
+    <dimen name="height_opacity_map_evidence">40dp</dimen>                        //Cambiar nombre
+    <dimen name="text_size_map_evidence">16sp</dimen>
+    <dimen name="height_no_se_que_es_map_evidence">2dp</dimen>                 //Cambiar nombre
+    <dimen name="margin_end_no_se_que_es_map_evidence">16dp</dimen>                 //Cambiar nombre
+
+
+    <!--Salida-->
+    <dimen name="width_button_exit">200dp</dimen>                //Generalizar boton
+
+
+    <!--Falsa Alarma esta con Reject-->
+    <dimen name="height_header_false_alarm">70dp</dimen>
+    <dimen name="margin_header_false_alarm">1dp</dimen>             //Generalizar
+    <dimen name="card_view">40dp</dimen>                              //Cambiar nombre
+    <dimen name="radius_del_anterior_card_view">40dp</dimen>         //Cambiar nombre
+    <dimen name="radius_card_view_false_alarm">5dp</dimen>
+    <dimen name="margin_false_alarm">1dp</dimen>                //Generalizar
+    <dimen name="height_container_comments_false_alarm">250dp</dimen>    //Generalizar
+    <dimen name="margin_text_person_name_false_alarm">4dp</dimen>       //Generalizar
+    <item name="guideline_center_false_alarm" format="float" type="integer">0.5</item>
+
+
+    <!--Histórico de IPAT-->
+    <dimen name="height_recycler_historical_ipat">400dp</dimen>
+
+
+    <!--Item de Evidencia-->                            //Generalizar todo lo de evidencia
+    <dimen name="item_evidence">400dp</dimen>
+    <dimen name="width_image_item_evidence">250dp</dimen>
+    <dimen name="height_image_item_evidence">200dp</dimen>
+    <dimen name="height_title_item_evidence">40dp</dimen>
+    <dimen name="text_size_item_evidence">16sp</dimen>
+
+
+    <!--Item de Vehículos-->                            //Generalizar todo lo de evidencia compartido con item_vehiculos
+    <dimen name="width_plate_item_vehicle">150dp</dimen>
+    <dimen name="height_plate_item_vehicle">82dp</dimen>
+    <dimen name="margin_spinner_item_vehicle">4dp</dimen>
+    <dimen name="margin_comment_item_vehicle">3dp</dimen>
+    <dimen name="margin_start_text_comment_item_vehicle">6dp</dimen>     //COmentarios generalizar
+    <dimen name="height_comment_edit_text_item_vehicle">80dp</dimen>
+    <dimen name="padding_comment_edit_text_item_vehicle">6dp</dimen>
+    <dimen name="radius_card_view_immobilize_item_vehicle">10dp</dimen>
+    <dimen name="height_check_box_item_vehicle">30dp</dimen>    //Generalizar
+    <dimen name="size_text_courtyards_item_vehicle">12sp</dimen>    //Generalizar
+    <dimen name="size_icon_camera_item_vehicle">15dp</dimen>
+    <dimen name="size_icon_card_item_vehicle">25dp</dimen>      //Generalizar
+    <dimen name="margin_start_icon_card_item_vehicle">16dp</dimen>
+    <dimen name="width_icon_delete_item_vehicle">10dp</dimen>     //Generalizar
+    <dimen name="height_icon_delete_item_vehicle">12dp</dimen>    //Generalizar
+    <dimen name="margin_icon_delete_item_vehicle">6dp</dimen>    //Revisar
+    <item name="guideline_center_item_vehicle" format="float" type="integer">0.5</item>
+    <item name="guideline_top_item_vehicle" format="float" type="integer">0.1</item>
+
+
+    <!--Perfil del Agente-->
+    <dimen name="padding_image_signature_profile_agent">10dp</dimen>
+    <dimen name="padding_container_image_signature_profile_agent">15dp</dimen>
+    <dimen name="radius_signature_profile_agent">10dp</dimen>
+    <dimen name="radius_professional_data_profile_agent">15dp</dimen>
+    <dimen name="elevation_professional_data_profile_agent">10dp</dimen>
+
+
+    <!--Item de Víctima-->
+    <dimen name="margin_document_number_item_victim">32dp</dimen>
+    <dimen name="height_container_document_number_item_victim">40dp</dimen>
+    <dimen name="margin_container_document_number_item_victim">3dp</dimen>     //Generalizar
+    <dimen name="height_edit_text_comment_item_victim">80dp</dimen>     //Generalizar
+    <dimen name="padding_edit_text_comment_item_victim">5dp</dimen>     //Generalizar
+    <dimen name="margin_start_referred_hospital_comment_item_victim">4dp</dimen>     //Generalizar
+    <dimen name="margin_bottom_referred_hospital_comment_item_victim">1dp</dimen>     //Generalizar
+    <dimen name="margin_check_box">4dp</dimen>     //Generalizar
+    <dimen name="margin_hospital_item_victim">5dp</dimen>     //Generalizar
+
+
+    <!--Rechazado-->
+    <item name="guideline_center_reject" format="float" type="integer">0.5</item>
+
+
+    <!--Solicitud de Inicio-->
+    <dimen name="radius_card_view_start_request">8dp</dimen>     //Generalizar
+    <dimen name="height_header_card_view_start_request">40dp</dimen>     //Generalizar
+    <dimen name="margin_start_text_start_request">14dp</dimen>     //Generalizar
+    <dimen name="text_de_titulos">16sp</dimen>                      //Generalizar
+    <dimen name="width_text_view_hour_start_request">62dp</dimen>
+    <dimen name="height_text_view_hour_start_request">23dp</dimen>
+    <dimen name="size_icon_victim_start_request">30dp</dimen>     //Generalizar
+    <dimen name="margin_icon_victim_start_request">4dp</dimen>     //Generalizar
+    <dimen name="width_report_text_view_start_request">120dp</dimen>
+    <item name="guideline_center_start_request" format="float" type="integer">0.5</item>
+
+
+    <!--Vehículos-->
+    <dimen name="width_button_vehicles">200dp</dimen>     //Generalizar
+    <dimen name="size_add_button_vehicles">40dp</dimen>     //Generalizar
+
+
+    <!--Víctimas-->
+    <dimen name="width_plus_victim">28dp</dimen>     //Generalizar
+    <dimen name="height_plus_victim">27dp</dimen>     //Generalizar
+    <dimen name="width_button_victim">200dp</dimen>     //Generalizar
+
+
+</resources>

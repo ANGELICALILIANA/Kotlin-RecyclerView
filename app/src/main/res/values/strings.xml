@@ -1,3 +1,121 @@
 <resources>
-    <string name="app_name">RecyclerView</string>
+    <string name="app_name">TracesLite</string>
+    <string name="reason_reject">CUAL ES LA RAZON POR LA CUAL VAS A RECHAZAR ESTA SOLICITUD</string>
+    <string name="cancel_button">CANCELAR</string>
+    <string name="accept_button">ACEPTAR</string>
+    <string name="comments_reject">COMENTARIOS</string>
+    <string name="confirm_incident">CONFIRMAR INCIDENTE</string>
+    <string name="text_false_alarm">CUAL ES LA RAZON POR LA CUAL VAS A MARCAR ESTA SOLICITUD COMO FALSA ALARMA</string>
+    <string name="friendly_settlement">ARREGLO AMISTOSO</string>
+    <string name="vehicles_at_place">NO HAY VEHICULOS EN EL LUGAR</string>
+    <string name="vehicle_type">TIPO DE VEHICULO</string>
+    <string name="brand">MARCA</string>
+    <string name="plate_type">TIPO DE PLACA</string>
+    <string name="immobilized">INMOVILIZADO</string>
+    <string name="request_title">SOLICITAR</string>
+    <string name="entities">ENTIDADES</string>
+    <string name="ipat_dili">SE VA HA DILIGENCIAMIENTO DEL IPAT</string>
+    <string name="fake_alarm_button">FALSA ALARMA</string>
+    <string name="confirm_location_button">CONFIRMAR INCIDENTE</string>
+    <string name="road_desing">DISEÑO DE LA VIA</string>
+    <string name="type">TIPO</string>
+    <string name="road_one">VIA 1</string>
+    <string name="appendix">APENDICE</string>
+    <string name="cardinality">CARDINALIDAD</string>
+    <string name="number_direction">NUMERO</string>
+    <string name="complement">COMPLEMENTO</string>
+    <string name="confirm_address">CONFIRMAR DIRECCION</string>
+    <string name="victim_type">TIPO DE VICTIMA</string>
+    <string name="gender">GENERO</string>
+    <string name="document_type">TIPO DE DOCUMENTO</string>
+    <string name="document_number">NUMERO DE DOCUMENTO</string>
+    <string name="referredTo">REMITIDO A HOSPITAL</string>
+    <string name="victim">VICTIMA</string>
+
+    <string name="contrasena">gcatech</string>
+    <string name="settings">CONFIGURACIÓN</string>
+    <string name="imei">IMEI</string>
+    <string name="database_version">NUEVA VERSION DE \nBASE DE DATOS</string>
+    <string name="update_text">ACTUALIZAR</string>
+    <string name="backup_text">BACKUP</string>
+    <string name="last_update_text">ULTIMA ACTUALIZACION</string>
+    <string name="mac">MAC</string>
+    <string name="version_app">VERSION APLICACION</string>
+    <string name="version_database_text">VERSION DE BASE DE DATOS</string>
+    <string name="update_secretary">ACTUALIZAR SECRETARIA</string>
+    <string name="user_document">10203040</string>
+    <string name="user">USUARIO</string>
+    <string name="password">CONTRASEÑA</string>
+    <string name="ENTER">INGRESAR</string>
+    <string name="reported_dead">REPORTADO CON VICTIMA MORTAL</string>
+    <string name="confirm_type">CONFIRMAR TIPO</string>
+    <string name="type_of_accident">TIPO DE ACCIDENTE</string>
+    <string name="gravity">GRAVEDAD</string>
+    <string name="reject">RECHAZAR</string>
+    <string name="rejected">RECHAZADA</string>
+    <string name="report_list">TABLA DE IPATS</string>
+    <string name="profile_agent">PERFIL AGENTE</string>
+    <string name="ipat_history">HISTORICO DE IPATS</string>
+    <string name="catalog_manager">ADMINISTRADOR DE CATALOGOS</string>
+    <string name="about">ACERCA DE</string>
+    <string name="rotate_screen">GIRAR</string>
+    <string name="leave">SALIR</string>
+    <string name="personal_data">DATOS PERSONALES</string>
+    <string name="professional_data">DATOS PROFESIONALES</string>
+    <string name="form_dni_preview">CEDULA</string>
+    <string name="state_preview_item">ESTADO</string>
+    <string name="telephone_item_preview">TELEFONO</string>
+    <string name="form_ipat">INFORME POLICIAL DE ACCIDENTE DE TRÁNSITO</string>
+    <string name="police_telephone">CELULAR</string>
+    <string name="email_adress">CORREO</string>
+    <string name="ocurrence_datetime">FECHA Y HORA DE OCURRECIA</string>
+    <string name="lifting_datetime">FECHA Y HORA DE LEVANTAMIENTO</string>
+    <string name="police_role">ROL</string>
+    <string name="plate_profile">PLACA</string>
+    <string name="legal_entity_profile">ENTIDAD</string>
+    <string name="police_signature">FIRMA DEL AGENTE</string>
+    <string name="historical_ipats">HISTORICO DE IPATS</string>
+    <string name="address_reported">DIRECCION :</string>
+    <string name="hood_rejected">BARRIO :</string>
+
+
+    <!--Confirmación de Incidente-->
+    <string name="text_latitud">18.06.2021</string>      //Cambiar nombre
+    <string name="hour_confirm_location">12:15 am</string>
+    <string name="reference_point">PUNTO DE REFERENCIA  :</string>
+
+
+    <!--Confirmación Tipo de Incidente-->
+    <string name="test_number">PRUEBA NO.</string>
+    <string name="confirm_information">CONFIRMAR INFORMACION</string>
+    <string name="photo_one">FOTO 1 </string>
+
+
+    <!--Salida-->
+    <string name="go_home">IR AL HOME</string>
+    <string name="close_app">CERRAR EL APP</string>
+    <string name="open_traces">ABRIR TRACES</string>
+
+
+    <!--Falsa Alarma-->
+    <string name="agent">AGENTE:"</string>
+
+
+    <!--Falsa Alarma-->
+    <string name="courtyards">PATIOS</string>
+
+
+    <!--Solicitud de Inicio-->
+    <string name="accept">ACEPTAR</string>
+
+
+    <!--Vehículos-->
+    <string name="confirm_vehicles">CONFIRMAR VEHÍCULOS</string>
+    <string name="vehicles">VEHÍCULOS</string>
+
+
+    <!--Victimas-->
+    <string name="victims">VÍCTIMAS</string>
+    <string name="confirm_victims">CONFIRMAR VÍCTIMAS</string>
+
 </resources>
